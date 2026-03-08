@@ -5,18 +5,19 @@
 Hello, I'm <b>Yeo HJ</b>.<br>
 I am majoring in pharmacy and studying algorithm and development as a hobby.<br>
 <br>
-I'm currently **Co-founder & CTO at Wellnessbox**, a pharmacy-based personalized supplement platform.<br>
+I'm currently **Co-founder & CTO at Wellnessbox**,<br>
+a pharmacy-based personalized supplement platform.<br>
 <br>
 
 <h3><b>Key Achievements at Wellnessbox</b></h3>
 
-• 중소벤처기업부 TIPS 프로그램 선정, 사업화 자금 5억 원 확보<br>
+• 중소벤처기업부 **TIPS 프로그램 선정**, 사업화 자금 **5억 원** 확보<br>
 (Selected for the Ministry of SMEs and Startups (MSS) TIPS Program, securing KRW 500M in commercialization funding.)<br>
-• CES 2026 공식 전시 기업 선정 및 단독 부스 전시 운영<br>
+• **CES 2026** **공식 전시 기업 선정** 및 **단독 부스 전시 운영**<br>
 (Selected as an official CES 2026 exhibitor and operated an independent booth.)<br>
-• 인포뱅크 시드 투자 유치, 1억 원 투자 유치<br>
+• 인포뱅크 **시드 투자 유치**, **1억 원** 투자 유치<br>
 (Secured KRW 100M in seed funding from Infobank.)<br>
-• 예비창업패키지 선정 (권역 1위), 사업화 자금 1억 원 확보<br>
+• **예비창업패키지** 선정 (권역 **1위**), 사업화 자금 **1억 원** 확보<br>
 (Selected for the Pre-Startup Package, ranked #1 in the region, securing KRW 100M in commercialization funding.)<br>
 
 <br>
@@ -63,7 +64,8 @@ Feel free to contact me anytime. 😊</br>
 <br>
 
 <h3><b>Interest</b></h3>
-I am particularly interested in <b>AI-driven Drug Discovery</b>, <b>Web/App Development</b>, <b>Algorithmic Problem Solving (PS)</b>, and <b>Data Analysis</b>.<br>
+I am particularly interested in <b>AI-driven Drug Discovery</b>,<br>
+<b>Web/App Development</b>, <b>Algorithmic Problem Solving (PS)</b>, and <b>Data Analysis</b>.<br>
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> &nbsp
